@@ -134,7 +134,20 @@ To https://github.com/Ramon-Duque/unit1-git-practice.git
 Branch 'main' set up to track remote branch 'main' from 'origin'.
 
 ### Step 6
-
+Amandas-MacBook:Unit1-git-practice amanda$ git add .
+Amandas-MacBook:Unit1-git-practice amanda$ git commit -m "starting a menu"
+[main ee5e77a] starting a menu
+ 2 files changed, 30 insertions(+), 2 deletions(-)
+Amandas-MacBook:Unit1-git-practice amanda$ git push
+Enumerating objects: 7, done.
+Counting objects: 100% (7/7), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (4/4), 1.11 KiB | 569.00 KiB/s, done.
+Total 4 (delta 2), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/Ramon-Duque/unit1-git-practice.git
+   4c59aa0..ee5e77a  main -> main
 
 ### Step 7
 *** DO NOT RECORD STEP 7 ***
