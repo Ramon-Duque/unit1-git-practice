@@ -1,0 +1,112 @@
+### Step 2A
+/Users/amanda
+
+### Step 2B
+Amandas-MacBook:~ amanda$ cd Desktop/ 
+
+### Step 2C
+Amandas-MacBook:Desktop amanda$ cd Unit1-git-practice
+
+### Step 2D
+/Users/amanda/Desktop/Unit1-git-practice
+
+### Step 2E
+Amandas-MacBook:Unit1-git-practice amanda$ ls
+
+### Step 2F
+my-steps.txt
+
+### Step 2G
+Amandas-MacBook:Unit1-git-practice amanda$ cd ../
+
+### Step 2H
+/Users/amanda/Desktop
+
+### Step 2I
+Classes Exercise 1.pdf
+Functions Exercise 2.pdf
+MI-W4_ADuque.pdf
+Redirect_Code.html
+Reporting_Prep.sql
+Screen Shot 2021-05-29 at 5.19.40 PM.png
+Screen Shot 2021-05-29 at 5.21.49 PM.png
+Screen Shot 2021-05-29 at 5.22.45 PM.png
+Screen Shot 2021-05-29 at 8.45.27 PM.png
+Screen Shot 2021-12-29 at 9.30.40 PM.png
+Screen Shot 2022-01-27 at 5.14.43 PM.png
+Screen Shot 2022-03-21 at 5.42.46 AM.png
+Screen Shot 2022-03-21 at 5.45.57 AM.png
+Student Loans Tax Info 2018.pdf
+unit1-git-practice
+
+### Step 2J
+Amandas-MacBook:~ amanda$ cd ~
+
+### Step 2K
+Amandas-MacBook:~ amanda$ cd desktop
+Amandas-MacBook:desktop amanda$ cd Unit1-git-practice
+
+
+### Step 3A
+Amandas-MacBook:Unit1-git-practice amanda$ mkdir veggies
+Amandas-MacBook:Unit1-git-practice amanda$ mkdir meats desserts
+
+### Step 3B
+Amandas-MacBook:Unit1-git-practice amanda$ mv desserts sweets
+
+### Step 3C
+Amandas-MacBook:Unit1-git-practice amanda$ mkdir proteins
+
+### Step 3D
+Amandas-MacBook:Unit1-git-practice amanda$ mv meats proteins
+
+### Step 3E
+Amandas-MacBook:Unit1-git-practice amanda$ cd veggies
+Amandas-MacBook:veggies amanda$ touch carrot.txt pea.txt
+
+### Step 3F
+Amandas-MacBook:veggies amanda$ cd ../
+Amandas-MacBook:Unit1-git-practice amanda$ cd sweets
+Amandas-MacBook:sweets amanda$ touch cookie.txt
+
+### Step 3G
+Amandas-MacBook:sweets amanda$ mv cookie.txt donut.txt
+
+### Step 3H
+Amandas-MacBook:sweets amanda$ cd ../
+Amandas-MacBook:Unit1-git-practice amanda$ touch thing.txt
+
+### Step 3I
+Amandas-MacBook:Unit1-git-practice amanda$ cp thing.txt tofu.txt
+
+### Step 3J
+Amandas-MacBook:Unit1-git-practice amanda$ mv tofu.txt proteins/
+
+### Step 3K
+Amandas-MacBook:Unit1-git-practice amanda$ mv crab.txt proteins
+Amandas-MacBook:Unit1-git-practice amanda$ cd proteins/
+Amandas-MacBook:proteins amanda$ mv crab.txt meats/
+
+### Step 3L
+Amandas-MacBook:proteins amanda$ cd ..
+Amandas-MacBook:Unit1-git-practice amanda$ rm thing.txt
+
+### Step 3M
+Amandas-MacBook:Unit1-git-practice amanda$ cp -r veggies plants
+
+### Step 3N
+Amandas-MacBook:Unit1-git-practice amanda$ mkdir drinks
+Amandas-MacBook:Unit1-git-practice amanda$ rm -r drinks
+
+
+### Step 4
+
+
+### Step 5
+
+
+### Step 6
+
+
+### Step 7
+*** DO NOT RECORD STEP 7 ***
